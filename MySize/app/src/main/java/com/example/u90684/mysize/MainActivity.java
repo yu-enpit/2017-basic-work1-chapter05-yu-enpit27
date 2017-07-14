@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-
     private static final String NECK = "NECK";
     private static final String SLEEVE = "SLEEVE";
     private static final String WAIST = "WAIST";
